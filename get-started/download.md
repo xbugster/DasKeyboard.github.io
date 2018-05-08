@@ -7,8 +7,8 @@ permalink: /get-started/download/
 ## Control Das Keyboard RGB devices with Q software
 
 <div class="homepage__button_row">
-  <a href="https://s3-us-west-2.amazonaws.com/q-software-releases/5Q-Flash-Upgrade.7.3.247.exe" class="get-started-button">Download firmware</a>
-  <a href="https://s3-us-west-2.amazonaws.com/q-software-releases/Das-Keyboard-Q-Setup-1.0.0-beta.43.exe" class="get-started-button">Download Q desktop</a>
+  <a href="https://s3-us-west-2.amazonaws.com/q-software-releases/5Q-Flash-Upgrade.7.3.247.exe" class="get-started-button">Download firmware v.247</a>
+  <a href="https://s3-us-west-2.amazonaws.com/q-software-releases/Das-Keyboard-Q-Setup-1.0.0-beta.43.exe" class="get-started-button">Download Q desktop v.43.beta</a>
 </div>
 
 <div class="card" style="margin-left:0; margin-right:0; width:auto; margin-bottom: 1.5em;">
